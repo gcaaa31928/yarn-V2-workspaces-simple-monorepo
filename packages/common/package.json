@@ -1,6 +1,6 @@
 {
   "name": "@packages/common",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": ".dist/common.js",
   "dependencies": {
     "@example/example-1": "workspace:*"
