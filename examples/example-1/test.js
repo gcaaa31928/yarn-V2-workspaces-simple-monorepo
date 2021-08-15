@@ -1,3 +1,4 @@
+
 console.log('Loaded: @example/example-1');
 
 module.exports.data = {
