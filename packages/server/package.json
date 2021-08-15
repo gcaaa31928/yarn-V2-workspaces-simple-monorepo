@@ -1,6 +1,6 @@
 {
   "name": "@packages/server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": ".dist/server.js",
   "dependencies": {
     "@example/example-1": "workspace:*",
