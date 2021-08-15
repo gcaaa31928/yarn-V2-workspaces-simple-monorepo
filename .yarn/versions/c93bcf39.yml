@@ -1,0 +1,4 @@
+releases:
+  "@packages/common": patch
+  "@packages/server": patch
+  testapp: patch
